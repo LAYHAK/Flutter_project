@@ -38,7 +38,7 @@ class HomeScreen extends StatelessWidget {
                   ],
                 ),
                 child: Text(
-                  'Welcome My App',
+                  'Welcome to My Apps',
                   textScaleFactor: 1.5,
                 ),
               ),
